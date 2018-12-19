@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: order
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     data-username: root
@@ -13,4 +11,3 @@ spring:
     password: guest
   jpa:
     show-sql: true
-   
